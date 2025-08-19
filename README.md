@@ -43,8 +43,8 @@ A full-stack learning platform with **FastAPI backend** and **Next.js frontend**
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/fa21-bse-052/PepsiHrProject.git
-cd PepsiHrProject/Backend
+git clone https://github.com/fa21-bse-052/PepsiHrItProject.git
+cd PepsiHrItProject/Backend
 ```
 
 2. **Create and activate a virtual environment**:
@@ -84,7 +84,7 @@ The backend will be available at `http://localhost:8000`.
 1. **Navigate to frontend folder**:
 
 ```bash
-cd PepsiHrProject/Frontend
+cd PepsiHrItProject/Frontend
 ```
 
 2. **Install dependencies**:
